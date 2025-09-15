@@ -1,0 +1,7 @@
+{
+  "name": "Finance Expense Tracker",
+  "description": "A comprehensive mobile-first Finance Expense Tracker App to manage your expenses, visualize spending habits, and stay on budget, all with a beautiful, modern interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
